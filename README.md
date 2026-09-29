@@ -1,26 +1,21 @@
 <!-- Animated Header -->
 
 <p align="center">
+
+### 👋 Hey there, I'm Nazim!
+
+> 🛡️ **Aspiring Cybersecurity Professional**
+> 🎓 **B.Com Finance Student**
+> 🚀 **Learning • Building • Growing**
+
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nazim+%F0%9F%91%8B;Aspiring+Cybersecurity+Professional+%F0%9F%9B%A1%EF%B8%8F;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
 
 <p align="center">
   <strong>B.Com Finance Student → Cybersecurity Career Transition</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/agheel-nazim">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/agheel-nazim-440645439">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:agheelnazimep@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/nazim.7.3/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </p>
 
 ---
