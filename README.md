@@ -193,11 +193,6 @@ I'm at the beginning of my GitHub journey.
 
 As I learn and build, this profile will gradually become a record of my progress — from small experiments and learning notes to cybersecurity projects, scripts, labs, and open-source contributions.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agheel-nazim&theme=github-compact&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
-> 📌 *The graph will naturally grow as I contribute and build.*
 
 ---
 
