@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nazim+%F0%9F%91%8B;B.Com+Finance+Student+%F0%9F%8E%93;Aspiring+Cybersecurity+Professional+%F0%9F%9B%A1%EF%B8%8F;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPjzfvCRg4nMZyU/giphy.gif" width="500">
+</p>
+
+
 ### 🎓 B.Com Finance Student → 🛡️ Aspiring Cybersecurity Professional
 
 I'm **Agheel Nazim E P**, a student from **Kozhikode, Kerala, India**, currently exploring a new career path in **Cybersecurity**.
