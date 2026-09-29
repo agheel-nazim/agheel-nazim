@@ -1,56 +1,89 @@
-## Hi there I'm Nazim
+<!-- Animated Header -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nazim+%F0%9F%91%8B;Aspiring+Cybersecurity+Professional+%F0%9F%9B%A1%EF%B8%8F;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" alt="Typing Animation" />
+</p>
 
-### 🎓 B.Com Finance Student → 🛡️ Aspiring Cybersecurity Professional
+<p align="center">
+  <strong>B.Com Finance Student → Cybersecurity Career Transition</strong>
+</p>
 
-I'm **Agheel Nazim E P**, a student from **Kozhikode, Kerala, India**, currently exploring a new career path in **Cybersecurity**.
-
-I'm a curious and motivated learner who enjoys solving problems, learning new technologies, and taking on new challenges. After studying **B.Com Finance**, I've decided to explore cybersecurity and build my skills from the ground up.
-
-I'm currently at the beginning of this journey and focused on developing strong fundamentals, gaining practical experience, and understanding how technology can be used to protect systems and information.
+<p align="center">
+  <a href="https://github.com/agheel-nazim">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/agheel-nazim-440645439">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:agheelnazimep@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/nazim.7.3/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
-## 🛡️ My Cybersecurity Journey
+## 👋 About Me
 
-I'm currently starting my cybersecurity journey at **Offenso Hacker Academy, Kozhikode**.
+I'm **Agheel Nazim E P**, known as **Nazim**, from **Kozhikode, Kerala, India**.
 
-I'm beginning from the fundamentals and gradually exploring areas such as:
+I'm a **B.Com Finance student** currently making a career transition into **Cybersecurity**. I'm starting from the fundamentals, building my technical foundation, and gradually developing the practical skills needed for a career in information security.
 
-* 🔐 Cybersecurity
-* 🌐 Network Security
+I'm naturally curious, enjoy solving problems, and like understanding how technology works. My current focus is on **learning consistently, practicing what I learn, and turning knowledge into practical experience**.
+
+> 🌱 *Starting from the fundamentals. Building one skill at a time.*
+
+---
+
+## 🛡️ Cybersecurity Journey
+
+I'm currently pursuing cybersecurity training at **Offenso Hacker Academy, Kozhikode**.
+
+My learning journey is focused on developing a strong foundation before moving into more advanced security concepts.
+
+### Areas I'm Exploring
+
+* 🔐 Cybersecurity Fundamentals
+* 🌐 Computer & Network Security
 * 🕵️ Ethical Hacking
 * 🧪 Penetration Testing
 * 🔎 Vulnerability Assessment
-* 💻 Linux & Security Tools
+* 🐧 Linux & Security Environments
 * 🧾 Digital Forensics
-* 🤖 AI & Modern Technologies
+* 🤖 AI & Modern Technology
 
-> 🌱 **Currently learning — building knowledge step by step.**
-
-Since I'm at the beginning of my career transition, I'm more interested in **learning, practicing, and building real skills** than simply collecting technologies on a profile.
+As I progress, this section will evolve with the technologies, labs, projects, and security concepts I actually work with.
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Direction
 
-My goal is to build a strong career in **Cybersecurity** and develop the knowledge and practical skills required to protect systems, networks, and data from evolving cyber threats.
+My goal is to build a long-term career in **Cybersecurity** and develop the ability to understand, identify, and respond to real-world security challenges.
 
-I'm starting from the fundamentals and working toward becoming a skilled cybersecurity professional capable of understanding, identifying, and solving complex security challenges.
+I'm particularly interested in learning how systems and networks can be protected against evolving threats while developing the practical mindset required in security.
+
+```text
+Learn → Practice → Build → Improve → Secure
+```
 
 ---
 
 ## 📚 Currently Learning
 
-I'm currently focused on:
+| Area               | Focus                                    |
+| ------------------ | ---------------------------------------- |
+| 🛡️ Cybersecurity  | Fundamentals & security concepts         |
+| 🌐 Networking      | Computer & network fundamentals          |
+| 🐧 Linux           | Linux fundamentals                       |
+| 🐍 Python          | Programming fundamentals                 |
+| 🔧 Git & GitHub    | Version control & collaboration          |
+| 💻 Kali Linux      | Security-focused environment             |
+| 🔐 Ethical Hacking | Foundational concepts                    |
+| 🤖 AI              | Exploring modern AI tools & applications |
 
-* Cybersecurity fundamentals
-* Understanding computer and network fundamentals
-* Exploring Linux
-* Learning security concepts
-* Developing problem-solving skills
-* Exploring ethical hacking
-* Understanding how modern technologies and AI can support cybersecurity
+> ⚠️ **Learning in progress:** I'm intentionally keeping this list aligned with what I'm actually studying rather than claiming expertise I haven't developed yet.
 
 ---
 
@@ -58,40 +91,39 @@ I'm currently focused on:
 
 ### Offenso Hacker Academy
 
-📍 Kozhikode, Kerala, India
+📍 **Kozhikode, Kerala, India**
 
-I've recently started my cybersecurity training at **Offenso Hacker Academy** and am currently working through the fundamentals.
+I've recently started my cybersecurity training and am currently building my foundation through structured learning and practical exercises.
 
-This section will grow as I complete labs, projects, CTFs, and other practical cybersecurity exercises.
+As I complete labs and projects, I'll document them here and share what I learn.
+
+**Next milestones:**
+
+`Fundamentals` → `Labs` → `Projects` → `CTFs` → `Security Portfolio`
 
 ---
 
 ## 🚀 Projects
 
-I'm currently building my knowledge before starting larger cybersecurity projects.
+I'm currently preparing my technical foundation before developing larger cybersecurity projects.
 
-**Projects will be added here as I build them.**
+### 🔧 Coming Soon
 
-> 🛠️ Learning → Practicing → Building → Sharing
+Future projects will include practical experiments, cybersecurity labs, scripts, learning projects, and security-focused work.
+
+> **Learn it. Build it. Test it. Document it.**
 
 ---
 
-## 🧰 Skills & Technologies
+## 🧰 Technology Stack
 
-### 🌱 Currently Exploring
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,git,github,kali&perline=5" alt="Technology Skills"/>
+</p>
 
-| Area                   | Status       |
-| ---------------------- | ------------ |
-| Cybersecurity          | 🌱 Beginner  |
-| Linux                  | 🌱 Learning  |
-| Networking             | 🌱 Learning  |
-| Python                 | 🌱 Exploring |
-| Git & GitHub           | 🌱 Learning  |
-| Kali Linux             | 🌱 Exploring |
-| Ethical Hacking        | 🌱 Learning  |
-| AI & Modern Technology | 🌱 Exploring |
-
-*This section will evolve as I gain practical experience.*
+<p align="center">
+  <sub>Currently learning and exploring these technologies.</sub>
+</p>
 
 ---
 
@@ -101,52 +133,55 @@ I'm currently building my knowledge before starting larger cybersecurity project
 
 **University of Calicut**
 
-📅 Expected graduation: **2026**
+📅 **Expected Graduation:** 2026
 
-My academic background is in **Commerce and Finance**, and I'm currently exploring a transition into the technology and cybersecurity field.
+My academic background is in **Commerce and Finance**, and I'm combining that foundation with newly developing technical and cybersecurity skills as I transition toward a career in technology.
 
 ---
 
 ## 🔄 Career Transition
 
-### From Finance → Cybersecurity
+### Finance → Technology → Cybersecurity
 
-My background may be in finance, but I'm taking a new direction.
+Changing career direction means starting with a new foundation, and I'm embracing that process.
 
-I'm currently building my technical foundation from the beginning and learning how cybersecurity, technology, and problem-solving come together.
+My background in finance has developed my interest in analytical thinking and problem-solving, while cybersecurity is giving me a new technical direction to explore.
 
-I believe a career change is also an opportunity to bring a different perspective to a new field.
+I'm focused on building genuine skills through **consistent learning, practical work, and continuous improvement**.
 
-**The journey is just beginning. 🚀**
+> 🚀 **A new career path starts with the first step.**
 
 ---
 
-## 💡 What I Enjoy
+## 💡 What Drives Me
 
-* 🧩 Breaking complex problems into smaller pieces
-* 📚 Learning new skills
-* 🔍 Exploring how things work
-* 💻 Experimenting with technology
-* 🛡️ Understanding cybersecurity
+* 🧩 Breaking complex problems into manageable pieces
+* 🔍 Understanding how systems work
+* 📚 Continuously learning new skills
+* 💻 Exploring technology
+* 🛡️ Learning how systems can be secured
 * 🤖 Exploring AI and modern tools
-* 🌱 Continuously improving
+* 🌱 Improving a little every day
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/agheel-nazim">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/agheel-nazim-440645439">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:agheelnazimep@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/nazim.7.3/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram"/>
   </a>
 </p>
 
@@ -154,45 +189,43 @@ I believe a career change is also an opportunity to bring a different perspectiv
 
 ## 📈 GitHub Journey
 
-I'm just getting started on GitHub.
+I'm at the beginning of my GitHub journey.
 
-My profile will grow alongside my learning journey — from my first experiments and notes to cybersecurity projects, scripts, labs, and open-source contributions.
+As I learn and build, this profile will gradually become a record of my progress — from small experiments and learning notes to cybersecurity projects, scripts, labs, and open-source contributions.
 
-**Every repository is another step forward. 🚀**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agheel-nazim&theme=github-compact&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+> 📌 *The graph will naturally grow as I contribute and build.*
 
 ---
 
-## ⚡ A Little About Me
+## ⚡ Quick Profile
 
 ```text
-Name        : Agheel Nazim E P
-Nickname    : Nazim
-Location    : Kozhikode, Kerala, India
-Education   : B.Com Finance
-University  : University of Calicut
-Current     : Cybersecurity Student
-Learning    : Cybersecurity & Technology
-Goal        : Cybersecurity Professional
+┌─────────────────────────────────────────┐
+│  Name       : Agheel Nazim E P          │
+│  Nickname   : Nazim                     │
+│  Location   : Kozhikode, Kerala, India  │
+│  Education  : B.Com Finance             │
+│  University : University of Calicut     │
+│  Current    : Cybersecurity Student      │
+│  Focus      : Cybersecurity & Technology│
+│  Goal       : Cybersecurity Professional │
+└─────────────────────────────────────────┘
 ```
 
 ---
 
-### 🛡️ Building skills. Solving problems. Securing the future.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&center=true&vCenter=true&width=600&lines=Learning+%F0%9F%93%9A;Building+%F0%9F%9B%A0%EF%B8%8F;Exploring+%F0%9F%94%8D;Securing+%F0%9F%9B%A1%EF%B8%8F;One+step+at+a+time+%F0%9F%9A%80" alt="Learning Animation"/>
+</p>
 
-**The journey starts from zero — and that's okay. 🚀**
+<p align="center">
+  <strong>🛡️ Building skills. Solving problems. Securing the future.</strong>
+</p>
 
-
-<!--
-**agheel-nazim/agheel-nazim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>The journey starts here. 🚀</i>
+</p>
